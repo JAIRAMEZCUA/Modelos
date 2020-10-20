@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Comparacion">
-        <activity android:name=".MVVM.MainActivity">
+        <activity android:name=".MVP.Login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
